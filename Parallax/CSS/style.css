@@ -14,5 +14,5 @@ body {
   background-image: url("http://wallup.net/wp-content/uploads/2014/10/nature/Natural_Galaxy_.jpg");
   size: contain;
   position: top-center;
-  background-attachment: absolute;
+  background-attachment: fixed;
 }
