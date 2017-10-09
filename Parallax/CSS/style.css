@@ -10,8 +10,8 @@ body {
 
 .background {
   position: relative;
-  height: 600px;
-  background-image: url("https://i.imgur.com/tk9jnY7.jpg");
+  height: 100vh;
+  background-image: url("http://wallup.net/wp-content/uploads/2014/10/nature/Natural_Galaxy_.jpg");
   size: contain;
   position: top-center;
   background-attachment: fixed;
